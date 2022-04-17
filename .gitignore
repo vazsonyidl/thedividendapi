@@ -1,6 +1,6 @@
 # Ignore node_modules
-./dividend-api/node_modules
+/dividend-api/node_modules
 
 # Ignore .vscode
 
-./dividend-api/.vscode
+/dividend-api/.vscode
