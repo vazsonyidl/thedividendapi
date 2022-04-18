@@ -4,3 +4,8 @@
 # Ignore .vscode
 
 /dividend-api/.vscode
+
+# Data related
+
+chiseld.db
+chiseld-data.db
