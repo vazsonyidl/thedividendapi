@@ -4,6 +4,7 @@
     "description": "",
     "scripts": {
         "dev": "chisel dev",
+        "start": "chisel start",
         "prettier": "prettier --write \"**/*.ts\""
     },
     "keywords": [],
